@@ -402,7 +402,7 @@ void trans(FILE *fp)
 }
 void about(void)
 {   system("cls");
-	printf("\n\n\n\n\n\t\t\t\tPROGRAM TO DISPLAY HOW A BIG BANK PROGRAM WORKS. ");
+	printf("\n\n\n\n\n\t\t\t\tPROGRAM TO DISPLAY HOW A SMALL BANK PROGRAM WORKS. ");
 	printf("\n\t\t\t\tPROGRAM DESIGNED & DEVELOPED BY AMIT SINGH...");
 	printf("\n\t\t\t\tSTUDENT OF SGRRITS, PATEL NAGAR, DEHRADUN, UK, INDIA .");
 	printf("\n\t\t\t\t\tBCA Ist SEMESTER (RESPECT THE CODE). ");
